@@ -5,4 +5,4 @@ exclude:
   # Use either “global” or “code”. “global” currently applies only to the Snyk Code product, and it will exclude the specified directories and files from these tests; “code” applies only to the Snyk Code analysis.
   global:
     # Exclude routes folder from scan
-    #- routes/**
+    - routes/**
